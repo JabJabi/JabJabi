@@ -1,3 +1,1 @@
-- 👋 Hi, i'm a beginner in there
-- i'm just trying to train myself with different projects that i will show
-- you're free to use any of my public projects
+
